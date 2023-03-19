@@ -1,4 +1,4 @@
-# HotKeys
+<h1 align="center">HotKeys</h1>
 
 <img width="922" alt="Screenshot 2023-03-15 at 8 36 12 PM" src="https://user-images.githubusercontent.com/90976669/226206678-5103924e-3f3c-4b7c-bd34-bb653a28ed8e.PNG">
 
