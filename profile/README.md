@@ -1,4 +1,6 @@
-# HotKeys - Software Licensing made easy for professionals.
+# HotKeys
+
+<img width="922" alt="Screenshot 2023-03-15 at 8 36 12 PM" src="https://user-images.githubusercontent.com/90976669/226206678-5103924e-3f3c-4b7c-bd34-bb653a28ed8e.PNG">
 
 ## Introduction
 HotKeys is an SDK that allows companies to issue NFTs(Non-Fungible Tokens) rather than hex keys for every new purchase of their software products. This provides a better transfer mechanism for users as they can easily manage a lot of plugins with just one wallet. Additionally, for companies, every resale generates a percentage of the money earned from the purchase.
