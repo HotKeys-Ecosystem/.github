@@ -3,7 +3,7 @@
 <img width="922" alt="Screenshot 2023-03-15 at 8 36 12 PM" src="https://user-images.githubusercontent.com/90976669/226206678-5103924e-3f3c-4b7c-bd34-bb653a28ed8e.PNG">
 
 
-**Software Keys are hard to manage. **
+**Software Keys are hard to manage.**
 
 Being a creative professionial, depenedent upon various plugins for your choice of software, whether it may be color grade LUT for premiere pro or fcp or some audio sampler for your music production daw.
 you need different product keys to authenticate each of those plugins, and managing them is a pain.
